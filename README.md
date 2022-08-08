@@ -1,6 +1,6 @@
 Cinema Room Manager project from Hyperskill (https://hyperskill.org/projects/133?track=8)
 
-There are six stages of the project.
+There are Five stages of the project.
 
  Stage 1: Arrangement
  
